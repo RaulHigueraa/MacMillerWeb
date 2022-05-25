@@ -4,13 +4,12 @@ html {
 }
 img {
   border: 3px solid #000000;
-}
-.center {
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 20%;
 }
+
 div {
   text-align: center;
   color: black;
