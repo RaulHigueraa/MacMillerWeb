@@ -1,0 +1,22 @@
+html {
+  background: #e8d18b;
+  color: black;
+}
+img {
+  border 3px solid #73AD21;
+}
+div {
+  text-align: center;
+  color: black;
+}
+
+p {
+  text-align: center;
+}
+li {
+  font-size: xx-large;
+  font-weight: bolder;
+}
+a {
+  color: black;
+}
