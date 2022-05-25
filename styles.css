@@ -3,7 +3,7 @@ html {
   color: black;
 }
 img {
-  border: 8px solid #000000;
+  border: 3px solid #000000;
 }
 div {
   text-align: center;
@@ -20,3 +20,4 @@ li {
 a {
   color: black;
 }
+
